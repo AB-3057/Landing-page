@@ -1,0 +1,25 @@
+body{
+ margin:0;
+}
+.header{
+    display:flex;
+    background-color: #1F2937 ;
+    font-family: Roboto sans-serif;
+    color:white;
+    justify-content:space-between;
+    align-items: center;
+    padding: 16px 120px;
+}
+ul{
+    display:flex;
+    list-style-type: none;
+    gap:16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    font-size: 24px;
+    font-weight: bold ;
+}
