@@ -127,11 +127,28 @@ a{
 .action{
     display: flex;
     background-color: #3882F6;
-    margin: 100px 120px;
+    margin: 100px 150px;
     justify-content: space-around;
+    align-items: center;
+    padding: 30px 60px;
+    border-radius: 8px;
 }
 .call{
     color: #f9faf8;
     font-size: 25px;
+    font-weight: bold;
+    margin:0;
+}
+.act{
+    color: #e5e7eb;
+    margin-top: 5px;
+}
+.sign-up{
+    background-color: #3882F6;
+    color: white;
+    border: 2ps solid white;
+    border-radius: 8px;
+    padding: 8px 30px;
+    font-size: 16px;
     font-weight: bold;
 }
